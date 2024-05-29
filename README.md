@@ -15,7 +15,7 @@
 
 
 **Resenie:**
-
+```
 fosc=5MHz
 
 Tosc=0,2 µsec ;Периодата е 1/f. Работната периода е 2 пати поголема.
@@ -91,7 +91,7 @@ RRC ; ACC се дели со 2
  VLEZNA EQU OAh
  
  IZLEZNA EQU F00Ah 
-
+```
 
  ![Screenshot (1)](https://github.com/slavko444/8085-Zadaca-1/blob/main/8085A.png)
 
