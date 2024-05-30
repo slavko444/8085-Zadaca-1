@@ -95,6 +95,9 @@ RRC ; ACC се дели со 2
 
  ![Screenshot (1)](https://github.com/slavko444/8085-Zadaca-1/blob/main/8085A.png)
 
+ 
+
+**Develop by:**
 
 [Slavko Srebrenoski ](https://github.com/slavko444)
 
